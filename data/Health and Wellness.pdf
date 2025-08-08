@@ -1,0 +1,2246 @@
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'html' -->
+<!-- FILE NAME SUGGESTIONS:
+   * html--careers--health.htmldocs--vol-1--Health%20and%20Wellness.pdf.html.twig
+   * html--careers--health.htmldocs--vol-1.html.twig
+   * html--careers--health.htmldocs.html.twig
+   * html--careers.html.twig
+   x html.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/school_education/templates/html.html.twig' -->
+<!DOCTYPE html>
+<html lang="hi" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+ <head>
+
+<meta charset="utf-8" />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<script type="application/ld+json">{
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [{
+            "@type": "ListItem",
+            "position": "1",
+            "name": "मुख पृष्ठ",
+            "item": "http://dsel.education.gov.in/hi"
+          },{
+            "@type": "ListItem",
+            "position": "2",
+            "name": "पृष्ठ नहीं मिला",
+            "item": "http://dsel.education.gov.in/hi/system/404"
+          }]}</script>
+<link rel="shortcut icon" href="/themes/school_education/favicon.ico" type="image/vnd.microsoft.icon" />
+<script>window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};</script>
+<style>div#block-addtoanybuttons-2 {
+    float: left;
+}</style>
+
+<title>पृष्ठ नहीं मिला | शिक्षा मंत्रालय, भारत सरकार</title>
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/ajax-progress.module.css?t03lcl" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/align.module.css?t03lcl" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/autocomplete-loading.module.css?t03lcl" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/fieldgroup.module.css?t03lcl" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/container-inline.module.css?t03lcl" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/clearfix.module.css?t03lcl" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/details.module.css?t03lcl" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/hidden.module.css?t03lcl" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/item-list.module.css?t03lcl" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/js.module.css?t03lcl" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/nowrap.module.css?t03lcl" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/position-container.module.css?t03lcl" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/progress.module.css?t03lcl" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/reset-appearance.module.css?t03lcl" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/resize.module.css?t03lcl" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/sticky-header.module.css?t03lcl" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/system-status-counter.css?t03lcl" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/system-status-report-counters.css?t03lcl" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/system-status-report-general-info.css?t03lcl" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/tabledrag.module.css?t03lcl" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/tablesort.module.css?t03lcl" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/tree-child.module.css?t03lcl" />
+<link rel="stylesheet" media="all" href="/modules/styleswitcher/css/styleswitcher-overlay.css?t03lcl" />
+<link rel="stylesheet" media="all" href="/modules/addtoany/css/addtoany.css?t03lcl" />
+<link rel="stylesheet" media="all" href="/modules/back_to_top/css/back_to_top.css?t03lcl" />
+<link rel="stylesheet" media="all" href="/modules/extlink/extlink.css?t03lcl" />
+<link rel="stylesheet" media="all" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css" />
+<link rel="stylesheet" media="all" href="/modules/tb_megamenu/css/tb_megamenu.bootstrap.css?t03lcl" />
+<link rel="stylesheet" media="all" href="/modules/tb_megamenu/css/tb_megamenu.base.css?t03lcl" />
+<link rel="stylesheet" media="all" href="/modules/tb_megamenu/css/tb_megamenu.default.css?t03lcl" />
+<link rel="stylesheet" media="all" href="/modules/tb_megamenu/css/tb_megamenu.compatibility.css?t03lcl" />
+<link rel="stylesheet" media="all" href="/modules/simple_mobile_menu/libraries/css/smm.css?t03lcl" />
+<link rel="stylesheet" media="all" href="/themes/school_education/assets/new_css/bootstrap.min.css?t03lcl" />
+<link rel="stylesheet" media="all" href="/themes/school_education/assets/css/flexslider.css?t03lcl" />
+<link rel="stylesheet" media="all" href="/themes/school_education/assets/css/style.css?t03lcl" />
+<link rel="stylesheet" media="all" href="/hi/styleswitcher/css/school_education?t03lcl" id="styleswitcher-css" />
+
+
+<!--[if lte IE 8]>
+<script src="/core/assets/vendor/html5shiv/html5shiv.min.js?v=3.7.3"></script>
+<![endif]-->
+
+
+<!--<meta name="Content-Security-Policy" content="default-src *; style-src https://tdil-dc.in 'unsafe-inline';script-src * 'unsafe-inline' 'unsafe-eval'">-->
+<meta name="utf" content="text/html; charset=utf-8" />
+<meta name="title" content="Departmen of School Education & Literacy">
+<meta name="description" content="School Education Shagun is an over reaching initiative to improve the school education system. The initiative involves creating a junction in the form of a platform for all portals and websites of the Department of School Education in the Government of India and all States and Union Territories (UTs).<br>
+The word 'Shagun' is coined from two different words 'Shala', meaning Schools and 'Gunvatta' meaning Quality.">
+<meta name="keywords" content="Home, School Education Shagun, Shagun, School Education, School, Education, Shala Gunvatta, Shala, Gunvatta, Education, Ministry of Human Resource Development, Ministry of HRD, MoHRD, MHRD, Education Ministry, Ministry of Human Resource Developemnt GoI, Ministry of Human Resource Developemnt Government of India, HRD, Human Resource Development, Shastri Bhawan">
+<meta name="Language" content="en, hi" />
+<meta name="author" content="NIC, Laxminarayan Prajapati">
+<!-- Global site tag (gtag.js) - Google Analytics Start-->
+<meta name="google-site-verification" content="j19944Q5pHIrjYCIfWajpwkv0TzL8WJBOr-e5Z8bu-E" />
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-149802295-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-149802295-1');
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics END --> 
+
+</head>
+ <body >
+    
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'off_canvas_page_wrapper' -->
+<!-- BEGIN OUTPUT from 'core/themes/stable/templates/content/off-canvas-page-wrapper.html.twig' -->
+  <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'page' -->
+<!-- FILE NAME SUGGESTIONS:
+   * page--404.html.twig
+   * page--4xx.html.twig
+   * page--careers--health.htmldocs--vol-1--Health%20and%20Wellness.pdf.html.twig
+   * page--careers--health.htmldocs--vol-1.html.twig
+   * page--careers--health.htmldocs.html.twig
+   * page--careers.html.twig
+   x page.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/school_education/templates/layout/page.html.twig' -->
+
+<div id="page">
+<header role="banner" id="masthead" class="site-header" aria-label="Main Site Header">
+  <!-- Accebility Pan -->
+  <div class="header" id="myHeader">
+     <div class="container-fluid accblty">
+      <div class="container">
+         <div class="row">
+		 <div class="col-md-6 col-lg-4 col-sm-6 ml-0 pl-0" aria-label="Tag Line">
+           	<ul class="list-unstyled list-inline float-left topbargovt">   
+                <li class="list-inline-item">                    
+                    <a href="#" target="_blank" class="topbartext-color">
+                      भारत सरकार<br>
+                      Government of India
+                    </a>      
+                </li>
+                  <li class="list-inline-item"> 
+                    <a href="#" target="_blank" class="topbartext-color">              
+                      शिक्षा मंत्रालय<br>
+                      Ministry of Education
+                    </a>  
+                  </li>
+              </ul>
+        </div>
+		<div class="col-md-6 col-lg-8">
+           <div class="top-wrapper">
+                         
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   * region--top-header.html.twig
+   x region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/school_education/templates/layout/region.html.twig' -->
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--accessibilitycontent-2.html.twig
+   * block--block-content--7a14cebf-e6e0-4ef0-8c67-6dc8479d6a83.html.twig
+   * block--block-content.html.twig
+   * block--block-content.html.twig
+   x block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/school_education/templates/block/block.html.twig' -->
+<!-- block -->
+<div id="block-accessibilitycontent-2" aria-label="Top Header Menu">
+  
+    
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--block-content--body--basic.html.twig
+   * field--block-content--body.html.twig
+   * field--block-content--basic.html.twig
+   * field--body.html.twig
+   * field--text-with-summary.html.twig
+   x field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/school_education/templates/field.html.twig' -->
+
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"><ul>
+	<li><a href="https://dsel.education.gov.in/hi" title="मुख पृष्ठ"><img alt="मुख पृष्ठ" src="/themes/school_education/assets/new_images/home1.svg" /></a></li>
+	<!--<li><a href="#topNav" title="नेवीगेशन पर जाएं">नेवीगेशन पर जाएं</a></li>-->
+	<li><img alt="मुख्य सामग्री पर जाएं आइकन छवि" class="mr-1" src="/themes/school_education/assets/new_images/mobileres.png" /><a href="#main-content" title="मुख्य सामग्री पर जाएं">मुख्य सामग्री पर जाएं</a></li>
+	<li><img alt="स्क्रीन रीडर का उपयोग आइकन छवि" class="mr-1" src="/themes/school_education/assets/new_images/screenread.png" /><a href="/screen-reader-access" title="स्क्रीन रीडर का उपयोग">स्क्रीन रीडर का उपयोग</a></li>
+</ul>
+</div>
+      
+<!-- END OUTPUT from 'themes/school_education/templates/field.html.twig' -->
+
+
+  </div>
+<!-- /block -->
+
+<!-- END OUTPUT from 'themes/school_education/templates/block/block.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/school_education/templates/layout/region.html.twig' -->
+
+
+             
+		  
+		                 
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   * region--style-switcher.html.twig
+   x region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/school_education/templates/layout/region.html.twig' -->
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--styleswitcher-2.html.twig
+   * block--styleswitcher-styleswitcher.html.twig
+   * block--styleswitcher.html.twig
+   x block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/school_education/templates/block/block.html.twig' -->
+<!-- block -->
+<div id="block-styleswitcher-2" aria-label="Style Switcher">
+  
+    
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'item_list' -->
+<!-- BEGIN OUTPUT from 'core/themes/stable/templates/dataset/item-list.html.twig' -->
+<ul><li><a href="/hi/styleswitcher/switch/school_education/custom/default?destination=/hi" class="style-switcher custom-style style-default" data-rel="custom/default" rel="nofollow">A</a></li><li><a href="/hi/styleswitcher/switch/school_education/custom/black?destination=/hi" class="style-switcher custom-style style-black" data-rel="custom/black" rel="nofollow">A</a></li></ul>
+<!-- END OUTPUT from 'core/themes/stable/templates/dataset/item-list.html.twig' -->
+
+
+  </div>
+<!-- /block -->
+
+<!-- END OUTPUT from 'themes/school_education/templates/block/block.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/school_education/templates/layout/region.html.twig' -->
+
+
+            			
+     	     
+			
+		   	<div class="language-switcher-language-url language" id="block-languageswitcher">
+										
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   * region--language.html.twig
+   x region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/school_education/templates/layout/region.html.twig' -->
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--languageswitcher-2.html.twig
+   * block--language-block--language-interface.html.twig
+   * block--language-block.html.twig
+   * block--language.html.twig
+   x block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/school_education/templates/block/block.html.twig' -->
+<!-- block -->
+<div class="language-switcher-language-url" id="block-languageswitcher-2" aria-label="This is Language Switcher Block" role="navigation">
+  
+    
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'links__language_block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * links--language-block.html.twig
+   x links.html.twig
+-->
+<!-- BEGIN OUTPUT from 'core/themes/stable/templates/navigation/links.html.twig' -->
+<ul class="links"><li hreflang="en" data-drupal-link-query="{&quot;_exception_statuscode&quot;:404,&quot;destination&quot;:&quot;\/hi&quot;}" data-drupal-link-system-path="system/404" class="en"><a href="/en/system/404?destination=/hi&amp;_exception_statuscode=404" class="language-link" hreflang="en" data-drupal-link-query="{&quot;_exception_statuscode&quot;:404,&quot;destination&quot;:&quot;\/hi&quot;}" data-drupal-link-system-path="system/404">English</a></li><li hreflang="hi" data-drupal-link-query="{&quot;_exception_statuscode&quot;:404,&quot;destination&quot;:&quot;\/hi&quot;}" data-drupal-link-system-path="system/404" class="hi"><a href="/hi/system/404?destination=/hi&amp;_exception_statuscode=404" class="language-link" hreflang="hi" data-drupal-link-query="{&quot;_exception_statuscode&quot;:404,&quot;destination&quot;:&quot;\/hi&quot;}" data-drupal-link-system-path="system/404">हिंदी</a></li></ul>
+<!-- END OUTPUT from 'core/themes/stable/templates/navigation/links.html.twig' -->
+
+
+  </div>
+<!-- /block -->
+
+<!-- END OUTPUT from 'themes/school_education/templates/block/block.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/school_education/templates/layout/region.html.twig' -->
+
+
+					 
+			</div>
+		   </div>
+         </div>
+		</div>
+       </div>
+    </div>
+   </div>
+  <!-- /Accebility Pan -->
+
+
+<!-- Header Start -->
+	<div class="container-fluid titlePan">
+        <div class="container curveBg">
+			<div class="row">
+								<div class="col-md-6 emblem">
+				  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   * region--header.html.twig
+   x region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/school_education/templates/layout/region.html.twig' -->
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--sitebranding.html.twig
+   x block--system-branding-block.html.twig
+   * block--system.html.twig
+   * block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/school_education/templates/block/block--system-branding-block.html.twig' -->
+  <div id="site-logo">
+    <a href="/hi" title="मुख पृष्ठ" rel="home">
+      <img src="/sites/default/files/emblem_updated.png" alt="मुख पृष्ठ" />
+    </a>
+  </div>
+<h1 id="site-title">
+  <a href="/hi" title="मुख पृष्ठ"  rel="home">शिक्षा मंत्रालय, भारत सरकार</a>
+</h1>
+
+<!-- END OUTPUT from 'themes/school_education/templates/block/block--system-branding-block.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/school_education/templates/layout/region.html.twig' -->
+
+
+				</div>
+								<div aria-label="International Year of Cooperatives Logo" class="col-md-3 col-sm-3 col-xs-12 akamg20">
+					<div class="otherlogo"> 
+													<a href="https://www.cooperation.gov.in/hi" title="International Year of Cooperatives" target="_blank">
+								<img src="/sites/default/files/images/Hindi-logo.png" alt="International Year of Cooperatives Logo">
+							</a>
+						 
+					</div>
+				</div>
+				<div role="search" class="col-md-3"> 
+					<div class="search-sec">
+					  						  <script async src="https://cse.google.com/cse.js?cx=012362485474264618354:dqc4wvgajuc"></script>
+							 <div class="gcse-searchbox-only" data-resultsUrl="https://dsel.education.gov.in/hi/search"></div>  
+					     
+					</div>
+                </div>
+            </div>
+		</div>
+		<div id="header">
+			<div class="mainmenu navWrap" id="topNav">
+				<div class="mobilenavi"></div>
+					<nav id="navigation" aria-label="Primary navigation">
+					   <div class="dash container clearfix">
+						   <div class="col-sm-12 float-left ml-0 pl-0">
+																
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   * region--main-navigation.html.twig
+   x region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/school_education/templates/layout/region.html.twig' -->
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--simplemobilemenublock.html.twig
+   * block--SimpleMenu-block.html.twig
+   * block--simple-mobile-menu.html.twig
+   x block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/school_education/templates/block/block.html.twig' -->
+<!-- block -->
+<div id="block-simplemobilemenublock" role="navigation" aria-label="Simple Mobile Menu">
+  
+    
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'simple_mobile_menu' -->
+<!-- BEGIN OUTPUT from 'modules/simple_mobile_menu/templates/simple-mobile-menu.html.twig' -->
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'menu__simple_mobile_menu__main' -->
+<!-- FILE NAME SUGGESTIONS:
+   * menu--simple-mobile-menu--main.html.twig
+   x menu--simple-mobile-menu.html.twig
+   x menu--simple-mobile-menu.html.twig
+   * menu.html.twig
+-->
+<!-- BEGIN OUTPUT from 'modules/simple_mobile_menu/templates/menu--simple-mobile-menu.html.twig' -->
+
+              <ul class="mobile_menu main-mobile-menu">
+                           <li class="menu-item"  
+                 >
+
+        <a href="/hi" data-drupal-link-system-path="&lt;front&gt;">Home</a>
+              </li>
+                       <li class="has-child menu-item menu-item--expanded"  
+                 >
+
+        <a href="/hi/about-us" title="About School Education Shagun" data-drupal-link-system-path="node/2">About Us</a>
+                                           <ul class="submenu">
+                           <li class="has-child menu-item menu-item--expanded"  
+                 >
+
+        <a href="/hi/about-us/ministers" data-drupal-link-system-path="node/1869">Minister</a>
+                                           <ul class="submenu">
+                           <li class="menu-item"  
+                 >
+
+        <a href="/hi/ministers/ministers-office" data-drupal-link-system-path="node/1874">Ministers Office</a>
+              </li>
+                       <li class="menu-item"  
+                 >
+
+        <a href="/hi/ministers/former-ministers" data-drupal-link-system-path="ministers/former-ministers">Former Ministers</a>
+              </li>
+        </ul>
+  
+              </li>
+                       <li class="menu-item"  
+                 >
+
+        <a href="/hi/about-us/acts-rules" data-drupal-link-system-path="node/1232">Acts and Rules</a>
+              </li>
+                       <li class="menu-item"  
+                 >
+
+        <a href="/hi/about-us/allocation_business_rules" title="Allocation of Business Rules" data-drupal-link-system-path="node/1227">Allocation of Business Rules</a>
+              </li>
+                       <li class="menu-item"  
+                 >
+
+        <a href="/hi/about-us/citizens-charters" title="Citizen&#039;s Charter" data-drupal-link-system-path="node/1228">Citizen&#039;s Charter</a>
+              </li>
+                       <li class="menu-item"  
+                 >
+
+        <a href="/hi/about-us/oc" title="Organisation Chart" data-drupal-link-system-path="node/1209">Organisation Chart</a>
+              </li>
+                       <li class="menu-item"  
+                 >
+
+        <a href="/hi/ministers/who-s-who" data-drupal-link-system-path="node/1211">Who&#039;s Who</a>
+              </li>
+                       <li class="menu-item"  
+                 >
+
+        <a href="/sites/default/files/telephone_directory_moe.pdf" id="telephone-dir" target="_blank">Telephone Directory</a>
+              </li>
+        </ul>
+  
+              </li>
+                       <li class="menu-item"  
+                 >
+
+        <a href="/hi/pab-minutes" title="प्रमुख दस्तावेज" data-drupal-link-system-path="pab-minutes">प्रमुख दस्तावेज</a>
+              </li>
+                       <li class="menu-item"  
+                 >
+
+        <a href="/hi/statistics?field_statistics_category_target_id=233" data-drupal-link-query="{&quot;field_statistics_category_target_id&quot;:&quot;233&quot;}" data-drupal-link-system-path="statistics">Statistics</a>
+              </li>
+                       <li class="has-child menu-item menu-item--expanded"  
+                 >
+
+        <a href="/hi/cbse" data-drupal-link-system-path="node/1074">स्वायत्त निकाय</a>
+                                           <ul class="submenu">
+                           <li class="menu-item"  
+                 >
+
+        <a href="/hi/cbse" data-drupal-link-system-path="node/1074">Central Board of Secondary Education</a>
+              </li>
+                       <li class="menu-item"  
+                 >
+
+        <a href="/hi/nvs" data-drupal-link-system-path="node/1076">Jawahar Navodaya Vidyalaya</a>
+              </li>
+                       <li class="menu-item"  
+                 >
+
+        <a href="/hi/kvs" data-drupal-link-system-path="node/1075">Kendriya Vidyalaya Sangathan</a>
+              </li>
+                       <li class="menu-item"  
+                 >
+
+        <a href="/hi/nbb" data-drupal-link-system-path="node/1078">National Bal Bhavan</a>
+              </li>
+                       <li class="menu-item"  
+                 >
+
+        <a href="/hi/ncte" data-drupal-link-system-path="node/1079">National Council for Teacher Education</a>
+              </li>
+                       <li class="menu-item"  
+                 >
+
+        <a href="/hi/ncert" data-drupal-link-system-path="node/1081">National Council of Educational Research and Training</a>
+              </li>
+                       <li class="menu-item"  
+                 >
+
+        <a href="/hi/nios" data-drupal-link-system-path="node/1077">National Institute of Open Schooling</a>
+              </li>
+        </ul>
+  
+              </li>
+                       <li class="has-child menu-item menu-item--expanded"  
+                 >
+
+        <a href="http://dashboard.udiseplus.gov.in/" title="Dashboard " target="_blank">Dashboard </a>
+                                           <ul class="submenu">
+                           <li class="menu-item"  
+                 >
+
+        <a href="https://nas.gov.in" title="NAS" target="_blank">National Achievement Survey (NAS)</a>
+              </li>
+                       <li class="menu-item"  
+                 >
+
+        <a href="https://dashboard.udiseplus.gov.in" title="UDISE+">UDISE+</a>
+              </li>
+        </ul>
+  
+              </li>
+                       <li class="menu-item"  
+                 >
+
+        <a href="/hi/rte" title="Right to Education" data-drupal-link-system-path="node/508">Right to Education</a>
+              </li>
+                       <li class="menu-item"  
+                 >
+
+        <a href="/hi/states_uts" title="States &amp; UTs Websites" data-drupal-link-system-path="node/602">States &amp; UTs</a>
+              </li>
+                       <li class="has-child menu-item menu-item--expanded"  
+                 >
+
+        <a href="/hi/node/2033" title="Budget" target="_blank" data-drupal-link-system-path="node/2033">Budget</a>
+                                           <ul class="submenu">
+                           <li class="menu-item"  
+                 >
+
+        <a href="/sites/default/files/GFR-2017.pdf" target="_blank">GFR - 2017</a>
+              </li>
+                       <li class="menu-item"  
+                 >
+
+        <a href="/hi/node/3359" data-drupal-link-system-path="node/3359">2024-25</a>
+              </li>
+                       <li class="menu-item"  
+                 >
+
+        <a href="/hi/node/2384" data-drupal-link-system-path="node/2384">2023-24</a>
+              </li>
+                       <li class="menu-item"  
+                 >
+
+        <a href="/hi/node/2033" data-drupal-link-system-path="node/2033">2022-23</a>
+              </li>
+                       <li class="menu-item"  
+                 >
+
+        <a href="/hi/node/1204" title="2021-22" data-drupal-link-system-path="node/1204">2021-22</a>
+              </li>
+                       <li class="menu-item"  
+                 >
+
+        <a href="/hi/budget_2021" title="2020-21" data-drupal-link-system-path="node/1202">2020-21</a>
+              </li>
+        </ul>
+  
+              </li>
+                       <li class="menu-item"  
+                 >
+
+        <a href="https://www.education.gov.in/en/rti_sel" target="_blank">RTI</a>
+              </li>
+                       <li class="has-child menu-item menu-item--expanded"  
+                 >
+
+        <a href="/hi/upcoming-events" data-drupal-link-system-path="upcoming-events">Upcoming Events</a>
+                                           <ul class="submenu">
+                           <li class="menu-item"  
+                 >
+
+        <a href="/hi/archive-events" data-drupal-link-system-path="archive-events">Archive Events</a>
+              </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+
+
+<!-- END OUTPUT from 'modules/simple_mobile_menu/templates/menu--simple-mobile-menu.html.twig' -->
+
+
+<!-- END OUTPUT from 'modules/simple_mobile_menu/templates/simple-mobile-menu.html.twig' -->
+
+
+  </div>
+<!-- /block -->
+
+<!-- END OUTPUT from 'themes/school_education/templates/block/block.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--maukhayanaevaigaesana-3.html.twig
+   * block--tb-megamenu-menu-block--maukhaya-naevaigaesana.html.twig
+   * block--tb-megamenu-menu-block.html.twig
+   * block--tb-megamenu.html.twig
+   x block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/school_education/templates/block/block.html.twig' -->
+<!-- block -->
+<div id="block-maukhayanaevaigaesana-3" role="navigation">
+  
+    
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'tb_megamenu' -->
+<!-- BEGIN OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu.html.twig' -->
+<div  class="tb-megamenu tb-megamenu-maukhaya-naevaigaesana">
+      <button data-target=".nav-collapse" data-toggle="collapse" class="btn btn-navbar tb-megamenu-button" type="button">
+      <i class="fa fa-reorder"></i>Menu
+    </button>
+    <div class="nav-collapse  always-show">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'tb_megamenu_nav' -->
+<!-- BEGIN OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-nav.html.twig' -->
+<ul  class="tb-megamenu-nav nav level-0 items-10" >
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'tb_megamenu_item' -->
+<!-- BEGIN OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-item.html.twig' -->
+    <li  class="tb-megamenu-item level-1 mega active active-trail" data-id="menu_link_content:8c96df90-fd0a-43fd-bcd3-fd77d8b34a31" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="मुख पृष्ठ" >
+  <a href='/hi'  class="active-trail">
+        मुख पृष्ठ
+          </a>
+  
+</li>
+
+<!-- END OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-item.html.twig' -->
+
+
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'tb_megamenu_item' -->
+<!-- BEGIN OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-item.html.twig' -->
+    <li  class="tb-megamenu-item level-1 mega dropdown" data-id="menu_link_content:1f8155c6-632c-4c4d-9973-83acfd3efd2f" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="हमारे बारे में" >
+  <a href='/hi/about-us'  class="dropdown-toggle">
+        हमारे बारे में
+          <span class="caret"></span>
+          </a>
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'tb_megamenu_submenu' -->
+<!-- BEGIN OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-submenu.html.twig' -->
+<div  class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child" data-class="" data-width="">
+  <div class="mega-dropdown-inner">
+          
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'tb_megamenu_row' -->
+<!-- BEGIN OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-row.html.twig' -->
+<div  class="tb-megamenu-row row-fluid">
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'tb_megamenu_column' -->
+<!-- BEGIN OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-column.html.twig' -->
+<div  class="tb-megamenu-column span12 mega-col-nav" data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-1">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+               
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'tb_megamenu_subnav' -->
+<!-- BEGIN OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-subnav.html.twig' -->
+<ul  class="tb-megamenu-subnav mega-nav level-1 items-7">
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'tb_megamenu_item' -->
+<!-- BEGIN OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-item.html.twig' -->
+    <li  class="tb-megamenu-item level-2 mega dropdown-submenu" data-id="menu_link_content:1f3e5f6b-99ce-4b78-9404-9f36be09b49b" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="मंत्री" >
+  <a href='/hi/about-us/ministers'  class="dropdown-toggle">
+        मंत्री
+          <span class="caret"></span>
+          </a>
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'tb_megamenu_submenu' -->
+<!-- BEGIN OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-submenu.html.twig' -->
+<div  class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child" data-class="" data-width="">
+  <div class="mega-dropdown-inner">
+          
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'tb_megamenu_row' -->
+<!-- BEGIN OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-row.html.twig' -->
+<div  class="tb-megamenu-row row-fluid">
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'tb_megamenu_column' -->
+<!-- BEGIN OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-column.html.twig' -->
+<div  class="tb-megamenu-column span12 mega-col-nav" data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-2">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+               
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'tb_megamenu_subnav' -->
+<!-- BEGIN OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-subnav.html.twig' -->
+<ul  class="tb-megamenu-subnav mega-nav level-2 items-2">
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'tb_megamenu_item' -->
+<!-- BEGIN OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-item.html.twig' -->
+    <li  class="tb-megamenu-item level-3 mega" data-id="menu_link_content:96c19e63-b0db-4693-bd9a-a92465e9309a" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="मंत्री कार्यालय" >
+  <a href='/hi/ministers/ministers-office' >
+        मंत्री कार्यालय
+          </a>
+  
+</li>
+
+<!-- END OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-item.html.twig' -->
+
+
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'tb_megamenu_item' -->
+<!-- BEGIN OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-item.html.twig' -->
+    <li  class="tb-megamenu-item level-3 mega" data-id="menu_link_content:e3a13611-11be-45f9-85a1-0fa6cb4cd7b8" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="पूर्व मंत्री" >
+  <a href='/hi/ministers/former-ministers' >
+        पूर्व मंत्री
+          </a>
+  
+</li>
+
+<!-- END OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-item.html.twig' -->
+
+
+  </ul>
+
+<!-- END OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-subnav.html.twig' -->
+
+
+      </div>
+</div>
+
+<!-- END OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-column.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-row.html.twig' -->
+
+
+      </div>
+</div>
+
+<!-- END OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-submenu.html.twig' -->
+
+
+</li>
+
+<!-- END OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-item.html.twig' -->
+
+
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'tb_megamenu_item' -->
+<!-- BEGIN OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-item.html.twig' -->
+    <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:cf92a467-cd0b-47f2-83d0-077d6647e614" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="अधिनियम और नियम" >
+  <a href='/hi/about-us/acts-rules' >
+        अधिनियम और नियम
+          </a>
+  
+</li>
+
+<!-- END OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-item.html.twig' -->
+
+
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'tb_megamenu_item' -->
+<!-- BEGIN OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-item.html.twig' -->
+    <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:f38a2ed3-e924-4f11-998e-242364049d5a" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="कार्य आबंटन नियमावली" >
+  <a href='/hi/about-us/allocation_business_rules' >
+        कार्य आबंटन नियमावली
+          </a>
+  
+</li>
+
+<!-- END OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-item.html.twig' -->
+
+
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'tb_megamenu_item' -->
+<!-- BEGIN OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-item.html.twig' -->
+    <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:020e7def-772a-4c86-8119-4d9d8dd8b758" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="नागरिक संहिता" >
+  <a href='/hi/about-us/citizens-charters' >
+        नागरिक संहिता
+          </a>
+  
+</li>
+
+<!-- END OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-item.html.twig' -->
+
+
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'tb_megamenu_item' -->
+<!-- BEGIN OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-item.html.twig' -->
+    <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:df659f63-7678-4f40-ae29-e61ceb0a96b6" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="संगठन चार्ट" >
+  <a href='/hi/about-us/oc' >
+        संगठन चार्ट
+          </a>
+  
+</li>
+
+<!-- END OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-item.html.twig' -->
+
+
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'tb_megamenu_item' -->
+<!-- BEGIN OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-item.html.twig' -->
+    <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:194c1b5e-0a1e-4182-9ffb-89edf7bc4a52" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="कौन क्‍या है" >
+  <a href='/hi/ministers/who-s-who' >
+        कौन क्‍या है
+          </a>
+  
+</li>
+
+<!-- END OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-item.html.twig' -->
+
+
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'tb_megamenu_item' -->
+<!-- BEGIN OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-item.html.twig' -->
+    <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:4694b0da-3b6b-4f6c-8882-a31a07b24a41" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="दूरभाष निदेशिका" >
+  <a href='/sites/default/files/telephone_directory_moe.pdf' >
+        दूरभाष निदेशिका
+          </a>
+  
+</li>
+
+<!-- END OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-item.html.twig' -->
+
+
+  </ul>
+
+<!-- END OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-subnav.html.twig' -->
+
+
+      </div>
+</div>
+
+<!-- END OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-column.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-row.html.twig' -->
+
+
+      </div>
+</div>
+
+<!-- END OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-submenu.html.twig' -->
+
+
+</li>
+
+<!-- END OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-item.html.twig' -->
+
+
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'tb_megamenu_item' -->
+<!-- BEGIN OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-item.html.twig' -->
+    <li  class="tb-megamenu-item level-1 mega" data-id="menu_link_content:58075c45-20a0-472e-91f1-4d742828e742" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="दस्तावेज़ और रिपोर्टें" >
+  <a href='/hi/pab-minutes' >
+        दस्तावेज़ और रिपोर्टें
+          </a>
+  
+</li>
+
+<!-- END OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-item.html.twig' -->
+
+
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'tb_megamenu_item' -->
+<!-- BEGIN OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-item.html.twig' -->
+    <li  class="tb-megamenu-item level-1 mega" data-id="menu_link_content:082952c9-a759-4640-bf22-31c39d88bfe9" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="सांख्यिकी" >
+  <a href='/hi/statistics?field_statistics_category_target_id=233' >
+        सांख्यिकी
+          </a>
+  
+</li>
+
+<!-- END OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-item.html.twig' -->
+
+
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'tb_megamenu_item' -->
+<!-- BEGIN OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-item.html.twig' -->
+    <li  class="tb-megamenu-item level-1 mega dropdown" data-id="menu_link_content:c7aed922-7757-4ab1-beed-92ee3195731f" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="स्वायत्त निकाय" >
+  <a href='/hi/cbse'  class="dropdown-toggle">
+        स्वायत्त निकाय
+          <span class="caret"></span>
+          </a>
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'tb_megamenu_submenu' -->
+<!-- BEGIN OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-submenu.html.twig' -->
+<div  class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child" data-class="" data-width="">
+  <div class="mega-dropdown-inner">
+          
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'tb_megamenu_row' -->
+<!-- BEGIN OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-row.html.twig' -->
+<div  class="tb-megamenu-row row-fluid">
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'tb_megamenu_column' -->
+<!-- BEGIN OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-column.html.twig' -->
+<div  class="tb-megamenu-column span12 mega-col-nav" data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-3">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+               
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'tb_megamenu_subnav' -->
+<!-- BEGIN OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-subnav.html.twig' -->
+<ul  class="tb-megamenu-subnav mega-nav level-1 items-7">
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'tb_megamenu_item' -->
+<!-- BEGIN OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-item.html.twig' -->
+    <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:2555cf75-a56d-4ab0-98d6-4e1ad9e20e6c" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="केंद्रीय माध्यमिक शिक्षा बोर्ड" >
+  <a href='/hi/cbse' >
+        केंद्रीय माध्यमिक शिक्षा बोर्ड
+          </a>
+  
+</li>
+
+<!-- END OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-item.html.twig' -->
+
+
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'tb_megamenu_item' -->
+<!-- BEGIN OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-item.html.twig' -->
+    <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:5e2b6f4d-1ebe-49f8-a061-205a853f8bf7" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="केन्द्रीय विद्यालय संगठन" >
+  <a href='/hi/kvs' >
+        केन्द्रीय विद्यालय संगठन
+          </a>
+  
+</li>
+
+<!-- END OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-item.html.twig' -->
+
+
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'tb_megamenu_item' -->
+<!-- BEGIN OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-item.html.twig' -->
+    <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:927151e2-ec95-423f-8b8c-180d5c237404" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="जवाहर नवोदय विद्यालय" >
+  <a href='/hi/nvs' >
+        जवाहर नवोदय विद्यालय
+          </a>
+  
+</li>
+
+<!-- END OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-item.html.twig' -->
+
+
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'tb_megamenu_item' -->
+<!-- BEGIN OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-item.html.twig' -->
+    <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:b50fb064-4152-4105-9e98-ed5f29d253ef" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="राष्ट्रीय बाल भवन" >
+  <a href='/hi/nbb' >
+        राष्ट्रीय बाल भवन
+          </a>
+  
+</li>
+
+<!-- END OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-item.html.twig' -->
+
+
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'tb_megamenu_item' -->
+<!-- BEGIN OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-item.html.twig' -->
+    <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:adbf1e36-ddf4-421e-81ac-7840d6249e2f" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="राष्ट्रीय मुक्त विद्यालयी शिक्षा संस्थान" >
+  <a href='/hi/nios' >
+        राष्ट्रीय मुक्त विद्यालयी शिक्षा संस्थान
+          </a>
+  
+</li>
+
+<!-- END OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-item.html.twig' -->
+
+
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'tb_megamenu_item' -->
+<!-- BEGIN OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-item.html.twig' -->
+    <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:903aa7bd-1b6d-4ce6-8787-fedb5aecfd91" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="राष्ट्रीय शैक्षिक अनुसंधान और प्रशिक्षण परिषद" >
+  <a href='/hi/ncert' >
+        राष्ट्रीय शैक्षिक अनुसंधान और प्रशिक्षण परिषद
+          </a>
+  
+</li>
+
+<!-- END OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-item.html.twig' -->
+
+
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'tb_megamenu_item' -->
+<!-- BEGIN OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-item.html.twig' -->
+    <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:fe14c1f2-19f9-493c-a1cb-d92023f9eaaa" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="शिक्षक शिक्षा के लिए राष्ट्रीय परिषद" >
+  <a href='/hi/ncte' >
+        शिक्षक शिक्षा के लिए राष्ट्रीय परिषद
+          </a>
+  
+</li>
+
+<!-- END OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-item.html.twig' -->
+
+
+  </ul>
+
+<!-- END OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-subnav.html.twig' -->
+
+
+      </div>
+</div>
+
+<!-- END OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-column.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-row.html.twig' -->
+
+
+      </div>
+</div>
+
+<!-- END OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-submenu.html.twig' -->
+
+
+</li>
+
+<!-- END OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-item.html.twig' -->
+
+
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'tb_megamenu_item' -->
+<!-- BEGIN OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-item.html.twig' -->
+    <li  class="tb-megamenu-item level-1 mega dropdown" data-id="menu_link_content:2c23f2a0-2414-46f3-90f0-bdf5f35d8ee4" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="डैशबोर्ड" >
+  <a href='http://dashboard.udiseplus.gov.in/'  class="dropdown-toggle">
+        डैशबोर्ड
+          <span class="caret"></span>
+          </a>
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'tb_megamenu_submenu' -->
+<!-- BEGIN OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-submenu.html.twig' -->
+<div  class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child" data-class="" data-width="">
+  <div class="mega-dropdown-inner">
+          
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'tb_megamenu_row' -->
+<!-- BEGIN OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-row.html.twig' -->
+<div  class="tb-megamenu-row row-fluid">
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'tb_megamenu_column' -->
+<!-- BEGIN OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-column.html.twig' -->
+<div  class="tb-megamenu-column span12 mega-col-nav" data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-4">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+               
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'tb_megamenu_subnav' -->
+<!-- BEGIN OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-subnav.html.twig' -->
+<ul  class="tb-megamenu-subnav mega-nav level-1 items-2">
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'tb_megamenu_item' -->
+<!-- BEGIN OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-item.html.twig' -->
+    <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:c7b63e6d-3015-4d92-abc5-610a64d59fad" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="राष्ट्रीय उपलब्धि सर्वेक्षण (एनएएस)" >
+  <a href='https://nas.gov.in' >
+        राष्ट्रीय उपलब्धि सर्वेक्षण (एनएएस)
+          </a>
+  
+</li>
+
+<!-- END OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-item.html.twig' -->
+
+
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'tb_megamenu_item' -->
+<!-- BEGIN OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-item.html.twig' -->
+    <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:0b40c52e-1870-4f80-904d-a714ef7ea1e6" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="यूडाइस+" >
+  <a href='https://dashboard.udiseplus.gov.in' >
+        यूडाइस+
+          </a>
+  
+</li>
+
+<!-- END OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-item.html.twig' -->
+
+
+  </ul>
+
+<!-- END OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-subnav.html.twig' -->
+
+
+      </div>
+</div>
+
+<!-- END OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-column.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-row.html.twig' -->
+
+
+      </div>
+</div>
+
+<!-- END OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-submenu.html.twig' -->
+
+
+</li>
+
+<!-- END OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-item.html.twig' -->
+
+
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'tb_megamenu_item' -->
+<!-- BEGIN OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-item.html.twig' -->
+    <li  class="tb-megamenu-item level-1 mega" data-id="menu_link_content:a0405210-dccd-4df5-ba92-7dccf0a24fea" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="शिक्षा का अधिकार" >
+  <a href='/hi/rte' >
+        शिक्षा का अधिकार
+          </a>
+  
+</li>
+
+<!-- END OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-item.html.twig' -->
+
+
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'tb_megamenu_item' -->
+<!-- BEGIN OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-item.html.twig' -->
+    <li  class="tb-megamenu-item level-1 mega" data-id="menu_link_content:d2f54ee8-7494-40d1-89dc-22344e1d4113" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="राज्य और संघ राज्य क्षेत्र" >
+  <a href='/hi/states_uts' >
+        राज्य और संघ राज्य क्षेत्र
+          </a>
+  
+</li>
+
+<!-- END OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-item.html.twig' -->
+
+
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'tb_megamenu_item' -->
+<!-- BEGIN OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-item.html.twig' -->
+    <li  class="tb-megamenu-item level-1 mega dropdown" data-id="menu_link_content:09262751-b1b0-48d5-a7aa-43573b6aaf38" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="बजट" >
+  <a href='/hi/node/2033'  class="dropdown-toggle">
+        बजट
+          <span class="caret"></span>
+          </a>
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'tb_megamenu_submenu' -->
+<!-- BEGIN OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-submenu.html.twig' -->
+<div  class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child" data-class="" data-width="">
+  <div class="mega-dropdown-inner">
+          
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'tb_megamenu_row' -->
+<!-- BEGIN OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-row.html.twig' -->
+<div  class="tb-megamenu-row row-fluid">
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'tb_megamenu_column' -->
+<!-- BEGIN OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-column.html.twig' -->
+<div  class="tb-megamenu-column span12 mega-col-nav" data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-5">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+               
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'tb_megamenu_subnav' -->
+<!-- BEGIN OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-subnav.html.twig' -->
+<ul  class="tb-megamenu-subnav mega-nav level-1 items-3">
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'tb_megamenu_item' -->
+<!-- BEGIN OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-item.html.twig' -->
+    <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:4bc99295-f8f3-403b-a495-fa3797c48c83" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="2022-23" >
+  <a href='/hi/node/2033' >
+        2022-23
+          </a>
+  
+</li>
+
+<!-- END OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-item.html.twig' -->
+
+
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'tb_megamenu_item' -->
+<!-- BEGIN OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-item.html.twig' -->
+    <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:f70022ec-89fe-4540-bbae-7cc11a9997ed" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="2021-22" >
+  <a href='/hi/node/1204' >
+        2021-22
+          </a>
+  
+</li>
+
+<!-- END OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-item.html.twig' -->
+
+
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'tb_megamenu_item' -->
+<!-- BEGIN OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-item.html.twig' -->
+    <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:cb21e4d5-01ce-41eb-bf62-fc3a47b54fa0" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="2020-21" >
+  <a href='/hi/budget_2021' >
+        2020-21
+          </a>
+  
+</li>
+
+<!-- END OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-item.html.twig' -->
+
+
+  </ul>
+
+<!-- END OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-subnav.html.twig' -->
+
+
+      </div>
+</div>
+
+<!-- END OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-column.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-row.html.twig' -->
+
+
+      </div>
+</div>
+
+<!-- END OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-submenu.html.twig' -->
+
+
+</li>
+
+<!-- END OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-item.html.twig' -->
+
+
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'tb_megamenu_item' -->
+<!-- BEGIN OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-item.html.twig' -->
+    <li  class="tb-megamenu-item level-1 mega" data-id="menu_link_content:be91236f-0fca-4f28-803a-75ac6190e9d8" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="आरटीआई" >
+  <a href='https://www.education.gov.in/en/rti_sel' >
+        आरटीआई
+          </a>
+  
+</li>
+
+<!-- END OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-item.html.twig' -->
+
+
+  </ul>
+
+<!-- END OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu-nav.html.twig' -->
+
+
+      </div>
+  </div>
+
+<!-- END OUTPUT from 'modules/tb_megamenu/templates/tb-megamenu.html.twig' -->
+
+
+  </div>
+<!-- /block -->
+
+<!-- END OUTPUT from 'themes/school_education/templates/block/block.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/school_education/templates/layout/region.html.twig' -->
+
+
+															</div>
+						</div>
+					</nav>
+				</div>
+			</div>
+		</div>
+	</div>	
+</header>
+
+<!-- Header  End -->
+	  
+ 
+   
+ <!-- Welcome -->
+  <!-- /Welcome -->
+	
+ <!-- UDISE Components -->
+      <!-- /UDISE Components -->
+	
+	<!-- Schemes Pan -->
+	    <!-- /Schemes Pan -->
+	
+<!-- Banner -->
+	 	 <div class="container-fluid innerHead" role="complementary" aria-label="Inner Page short banner">
+    	<div class="container">
+        	<div class="row">
+            	<div class="col-md-7">
+				
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   * region--content-top.html.twig
+   x region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/school_education/templates/layout/region.html.twig' -->
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--school-education-page-title.html.twig
+   * block--page-title-block.html.twig
+   * block--core.html.twig
+   x block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/school_education/templates/block/block.html.twig' -->
+<!-- block -->
+<div id="block-school-education-page-title" aria-label="School Education website Page Title">
+  
+    
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'page_title' -->
+<!-- BEGIN OUTPUT from 'themes/school_education/templates/page-title.html.twig' -->
+
+  <h2 class="page-title">पृष्ठ नहीं मिला</h2>
+
+
+<!-- END OUTPUT from 'themes/school_education/templates/page-title.html.twig' -->
+
+
+  </div>
+<!-- /block -->
+
+<!-- END OUTPUT from 'themes/school_education/templates/block/block.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/school_education/templates/layout/region.html.twig' -->
+
+
+				</div>
+                <div class="col-md-5"><div aria-label="Inner Header Banner" role="img" class="404"></div></div>
+				
+            </div>
+        </div>
+    </div>
+	<!-- /Banner -->  
+
+<!-- Main Content Body Start --> 	
+<div id="anchor" role="main">	
+	<div class="container-fluid">
+		<div class="container">
+			<div class="row">
+								  								
+				<!-- Main Content Area -->
+				<div id="primary" class="content-area col-sm-12">
+					<!-- Breadcrumb Start -->
+											<div>
+							
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   * region--breadcrumb.html.twig
+   x region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/school_education/templates/layout/region.html.twig' -->
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--breadcrumbs.html.twig
+   * block--system-breadcrumb-block.html.twig
+   * block--system.html.twig
+   x block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/school_education/templates/block/block.html.twig' -->
+<!-- block -->
+<div id="block-breadcrumbs" role="navigation" aria-label="Breadcrumb Navigation">
+  
+    
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'breadcrumb' -->
+<!-- BEGIN OUTPUT from 'themes/school_education/templates/breadcrumb.html.twig' -->
+  <div id="breadcrumbs">
+    <nav class ="breadcrumb">
+      <h2 class="visually-hidden">Breadcrumb</h2>
+              <li>
+                      <a href="/hi">मुख पृष्ठ</a>
+                  </li>
+              <li>
+                      <a href="/hi/system/404">पृष्ठ नहीं मिला</a>
+                  </li>
+          </nav>
+  </div>
+
+<!-- END OUTPUT from 'themes/school_education/templates/breadcrumb.html.twig' -->
+
+
+  </div>
+<!-- /block -->
+
+<!-- END OUTPUT from 'themes/school_education/templates/block/block.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/school_education/templates/layout/region.html.twig' -->
+
+
+						</div>
+										<!-- Breadcrumb END -->
+
+					<div id="content-wrap">
+						<section id="main-content" class="clearfix">
+							
+														  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   * region--help.html.twig
+   x region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/school_education/templates/layout/region.html.twig' -->
+
+<!-- END OUTPUT from 'themes/school_education/templates/layout/region.html.twig' -->
+
+
+							  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   * region--content.html.twig
+   x region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/school_education/templates/layout/region.html.twig' -->
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--mainpagecontent.html.twig
+   * block--system-main-block.html.twig
+   * block--system.html.twig
+   x block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/school_education/templates/block/block.html.twig' -->
+<!-- block -->
+<div id="block-mainpagecontent" aria-label="This is the main content Block">
+  
+    
+      अनुरोधित पृष्ठ पाया नहीं जा सका.
+  </div>
+<!-- /block -->
+
+<!-- END OUTPUT from 'themes/school_education/templates/block/block.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/school_education/templates/layout/region.html.twig' -->
+
+
+																					  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   * region--social-icon.html.twig
+   x region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/school_education/templates/layout/region.html.twig' -->
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--addtoanybuttons-2.html.twig
+   * block--addtoany-block.html.twig
+   * block--addtoany.html.twig
+   x block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/school_education/templates/block/block.html.twig' -->
+<!-- block -->
+<div id="block-addtoanybuttons-2" role="complementary" aria-label="This Is Social Sharing Icons">
+  
+    
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'addtoany_standard' -->
+<!-- BEGIN OUTPUT from 'modules/addtoany/templates/addtoany-standard.html.twig' -->
+<span class="a2a_kit a2a_kit_size_20 addtoany_list" data-a2a-url="http://dsel.education.gov.in/hi/system/404" data-a2a-title="पृष्ठ नहीं मिला"><a title="facebook" class="a2a_button_facebook"></a><a title="X" class="a2a_button_x"></a><a title="whatsapp" class="a2a_button_whatsapp"></a><a title="print" class="a2a_button_print"></a></span>
+<!-- END OUTPUT from 'modules/addtoany/templates/addtoany-standard.html.twig' -->
+
+
+  </div>
+<!-- /block -->
+
+<!-- END OUTPUT from 'themes/school_education/templates/block/block.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/school_education/templates/layout/region.html.twig' -->
+
+
+																					  																				</section>
+					</div>
+				</div>
+				
+				<!-- Sidebar -->
+							</div>
+		</div>
+	</div>	
+</div>
+<!-- Main Content Body END --> 
+  <!-- Dashboard Pan -->
+      <!-- /Dashboard Pan -->
+	
+	 <!-- Liks -->
+	     <!-- /Liks -->
+	
+	<!-- Autonomous Body -->
+	    <!-- /Autonomous Body -->
+	
+	    <!-- Media Pan -->
+		    <!-- /Media Pan -->
+	<!-- Bottom Logos -->
+	    <!-- /Bottom Logos -->
+  
+   <!-- Block Section Start -->
+     <!-- Block Section End -->
+  <div role="contentinfo" aria-label="footer navigation">
+  
+    <div id="bottom" class="footerWrap">
+     <div class="container">
+      <div class="row ftr">          <div class="footer-block col-md-2 col-sm-2 col-4">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   * region--footer-first.html.twig
+   x region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/school_education/templates/layout/region.html.twig' -->
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--maukhayanaevaigaesana-4.html.twig
+   * block--system-menu-block--maukhaya-naevaigaesana.html.twig
+   x block--system-menu-block.html.twig
+   * block--system.html.twig
+   * block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'core/themes/stable/templates/block/block--system-menu-block.html.twig' -->
+<nav role="navigation" aria-labelledby="block-maukhayanaevaigaesana-4-menu" id="block-maukhayanaevaigaesana-4" aria-label="मुख्य नेविगेशन">
+      
+  <h2 id="block-maukhayanaevaigaesana-4-menu">मुख्य नेविगेशन</h2>
+  
+
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'menu__maukhaya_naevaigaesana' -->
+<!-- FILE NAME SUGGESTIONS:
+   * menu--maukhaya-naevaigaesana.html.twig
+   x menu.html.twig
+-->
+<!-- BEGIN OUTPUT from 'modules/menus_attribute/templates/menu.html.twig' -->
+
+
+              <ul class="menu">
+                          <li class="menu-item"
+                      >
+        <a href="/hi" data-drupal-link-system-path="&lt;front&gt;">मुख पृष्ठ</a>
+              </li>
+                      <li class="menu-item menu-item--collapsed"
+                      >
+        <a href="/hi/about-us" data-drupal-link-system-path="node/2">हमारे बारे में</a>
+              </li>
+                      <li class="menu-item"
+                      >
+        <a href="/hi/pab-minutes" link="प्रमुख दस्तावेज" data-drupal-link-system-path="pab-minutes">दस्तावेज़ और रिपोर्टें</a>
+              </li>
+                      <li class="menu-item"
+                      >
+        <a href="/hi/statistics?field_statistics_category_target_id=233" data-drupal-link-query="{&quot;field_statistics_category_target_id&quot;:&quot;233&quot;}" data-drupal-link-system-path="statistics">सांख्यिकी</a>
+              </li>
+                      <li class="menu-item menu-item--collapsed"
+                      >
+        <a href="/hi/cbse" data-drupal-link-system-path="node/1074">स्वायत्त निकाय</a>
+              </li>
+                      <li class="menu-item menu-item--collapsed"
+                      >
+        <a href="http://dashboard.udiseplus.gov.in/" link="_blank">डैशबोर्ड</a>
+              </li>
+                      <li class="menu-item"
+                      >
+        <a href="/hi/rte" link="शिक्षा का अधिकार" data-drupal-link-system-path="node/508">शिक्षा का अधिकार</a>
+              </li>
+                      <li class="menu-item"
+                      >
+        <a href="/hi/states_uts" link="राज्य और संघ राज्य क्षेत्र" data-drupal-link-system-path="node/602">राज्य और संघ राज्य क्षेत्र</a>
+              </li>
+                      <li class="menu-item menu-item--collapsed"
+                      >
+        <a href="/hi/node/2033" link="बजट _blank" data-drupal-link-system-path="node/2033">बजट</a>
+              </li>
+                      <li class="menu-item"
+                      >
+        <a href="https://www.education.gov.in/en/rti_sel">आरटीआई</a>
+              </li>
+        </ul>
+  
+
+<!-- END OUTPUT from 'modules/menus_attribute/templates/menu.html.twig' -->
+
+
+  </nav>
+
+<!-- END OUTPUT from 'core/themes/stable/templates/block/block--system-menu-block.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/school_education/templates/layout/region.html.twig' -->
+
+</div>
+                           <div class="footer-block col-md-2 col-sm-2 col-4">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   * region--footer-second.html.twig
+   x region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/school_education/templates/layout/region.html.twig' -->
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--paramaukhadasataavaeja-2.html.twig
+   * block--system-menu-block--majordocuments.html.twig
+   x block--system-menu-block.html.twig
+   * block--system.html.twig
+   * block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'core/themes/stable/templates/block/block--system-menu-block.html.twig' -->
+<nav role="navigation" aria-labelledby="block-paramaukhadasataavaeja-2-menu" id="block-paramaukhadasataavaeja-2">
+      
+  <h2 id="block-paramaukhadasataavaeja-2-menu">प्रमुख दस्तावेज</h2>
+  
+
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'menu__majordocuments' -->
+<!-- FILE NAME SUGGESTIONS:
+   * menu--majordocuments.html.twig
+   x menu.html.twig
+-->
+<!-- BEGIN OUTPUT from 'modules/menus_attribute/templates/menu.html.twig' -->
+
+
+              <ul class="menu">
+                          <li class="menu-item"
+                      >
+        <a href="/hi/audit-report" link="ऑडिट रिपोर्ट _blank" data-drupal-link-system-path="audit-report">ऑडिट रिपोर्ट</a>
+              </li>
+                      <li class="menu-item"
+                      >
+        <a href="/hi/finance_minutes" link="वित्त मिनट" data-drupal-link-system-path="finance_minutes">वित्त मिनट</a>
+              </li>
+                      <li class="menu-item"
+                      >
+        <a href="/hi/financial-sanction" link="वित्तीय स्वीकृति" data-drupal-link-system-path="financial-sanction">वित्तीय स्वीकृति</a>
+              </li>
+                      <li class="menu-item"
+                      >
+        <a href="/hi/pab-minutes" link="पीएबी मिनट _blank" data-drupal-link-system-path="pab-minutes">पीएबी मिनट</a>
+              </li>
+                      <li class="menu-item"
+                      >
+        <a href="/hi/planning" link="योजना" data-drupal-link-system-path="planning">योजना</a>
+              </li>
+                      <li class="menu-item"
+                      >
+        <a href="/publication" link="प्रकाशन">प्रकाशन</a>
+              </li>
+                      <li class="menu-item"
+                      >
+        <a href="/miscellaneous" link="विविध _blank">विविध</a>
+              </li>
+                      <li class="menu-item"
+                      >
+        <a href="/sites/default/files/pgi_hi_1819.pdf" link="पीजीआई रिपोर्ट 2017 - 18 _blank">पीजीआई रिपोर्ट 2018 - 19</a>
+              </li>
+        </ul>
+  
+
+<!-- END OUTPUT from 'modules/menus_attribute/templates/menu.html.twig' -->
+
+
+  </nav>
+
+<!-- END OUTPUT from 'core/themes/stable/templates/block/block--system-menu-block.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/school_education/templates/layout/region.html.twig' -->
+
+</div>
+                           <div class="footer-block col-md-2 col-sm-2 col-4">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   * region--footer-third.html.twig
+   x region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/school_education/templates/layout/region.html.twig' -->
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--anayalainka-2.html.twig
+   * block--system-menu-block--otherlinks-hi.html.twig
+   x block--system-menu-block.html.twig
+   * block--system.html.twig
+   * block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'core/themes/stable/templates/block/block--system-menu-block.html.twig' -->
+<nav role="navigation" aria-labelledby="block-anayalainka-2-menu" id="block-anayalainka-2">
+      
+  <h2 id="block-anayalainka-2-menu">अन्य लिंक</h2>
+  
+
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'menu__otherlinks_hi' -->
+<!-- FILE NAME SUGGESTIONS:
+   * menu--otherlinks-hi.html.twig
+   x menu.html.twig
+-->
+<!-- BEGIN OUTPUT from 'modules/menus_attribute/templates/menu.html.twig' -->
+
+
+              <ul class="menu">
+                          <li class="menu-item"
+                      >
+        <a href="http://dashboard.udiseplus.gov.in/" link="डैशबोर्ड _blank">डैशबोर्ड</a>
+              </li>
+                      <li class="menu-item"
+                      >
+        <a href="https://repository.education.gov.in" link="डिजिटल कोष _blank">डिजिटल कोष</a>
+              </li>
+                      <li class="menu-item"
+                      >
+        <a href="https://education.gov.in/" link="एमएचआरडी वेबसाइट _blank">शिक्षा मंत्रालय</a>
+              </li>
+                      <li class="menu-item"
+                      >
+        <a href="https://www.education.gov.in/hi/higher_education" link="_blank">उच्चतर शिक्षा विभाग</a>
+              </li>
+                      <li class="menu-item"
+                      >
+        <a href="http://schoolgis.nic.in/" link="स्कूल जी.आई.एस. _blank">स्कूल जी.आई.एस.</a>
+              </li>
+                      <li class="menu-item"
+                      >
+        <a href="https://datastudio.google.com/reporting/8c6be090-6e6c-4285-8e05-61711254b5a3/page/BV9v" link="वेब विश्लेषिकी _blank">वेब विश्लेषिकी</a>
+              </li>
+                      <li class="menu-item"
+                      >
+        <a href="https://www.india.gov.in" link="_blank">राष्ट्रीय पोर्टल</a>
+              </li>
+                      <li class="menu-item"
+                      >
+        <a href="/hi/feedback-form" link="शिकायतें" data-drupal-link-system-path="webform/feedback">शिकायतें</a>
+              </li>
+                      <li class="menu-item"
+                      >
+        <a href="https://pgportal.gov.in/Registration" link="प्रतिक्रिया _blank">प्रतिक्रिया</a>
+              </li>
+        </ul>
+  
+
+<!-- END OUTPUT from 'modules/menus_attribute/templates/menu.html.twig' -->
+
+
+  </nav>
+
+<!-- END OUTPUT from 'core/themes/stable/templates/block/block--system-menu-block.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/school_education/templates/layout/region.html.twig' -->
+
+</div>
+                           <div class="footer-block col-md-2 col-sm-2 col-4">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   * region--footer-fourth.html.twig
+   x region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/school_education/templates/layout/region.html.twig' -->
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--footermenuhindi-2.html.twig
+   * block--system-menu-block--footermenuhindi.html.twig
+   x block--system-menu-block.html.twig
+   * block--system.html.twig
+   * block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'core/themes/stable/templates/block/block--system-menu-block.html.twig' -->
+<nav role="navigation" aria-labelledby="block-footermenuhindi-2-menu" id="block-footermenuhindi-2">
+      
+  <h2 id="block-footermenuhindi-2-menu">अन्य लिंक</h2>
+  
+
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'menu__footermenuhindi' -->
+<!-- FILE NAME SUGGESTIONS:
+   * menu--footermenuhindi.html.twig
+   x menu.html.twig
+-->
+<!-- BEGIN OUTPUT from 'modules/menus_attribute/templates/menu.html.twig' -->
+
+
+              <ul class="menu">
+                          <li class="menu-item"
+                      >
+        <a href="/hi/terms-condition" link="नियम एवं शर्तें" data-drupal-link-system-path="node/462">नियम एवं शर्तें</a>
+              </li>
+                      <li class="menu-item"
+                      >
+        <a href="/hi/copyright-policy" link="कॉपीराइट नीति" data-drupal-link-system-path="node/463">कॉपीराइट नीति</a>
+              </li>
+                      <li class="menu-item"
+                      >
+        <a href="/hi/hyperlink-policy" link="हाइपरलिंक नीति" data-drupal-link-system-path="node/464">हाइपरलिंक नीति</a>
+              </li>
+                      <li class="menu-item"
+                      >
+        <a href="/hi/privacy-policy" link="गोपनीयता नीति" data-drupal-link-system-path="node/465">गोपनीयता नीति</a>
+              </li>
+                      <li class="menu-item"
+                      >
+        <a href="/hi/disclaimer" link="खंडन" data-drupal-link-system-path="node/466">खंडन</a>
+              </li>
+                      <li class="menu-item"
+                      >
+        <a href="/hi/help" data-drupal-link-system-path="node/898">सहायता</a>
+              </li>
+                      <li class="menu-item"
+                      >
+        <a href="/hi/sitemap" data-drupal-link-system-path="sitemap">साइट मैप</a>
+              </li>
+                      <li class="menu-item"
+                      >
+        <a href="/hi/web-information-manager" data-drupal-link-system-path="node/897">वेब सूचना प्रबंधक</a>
+              </li>
+                      <li class="menu-item"
+                      >
+        <a href="/hi/contact_us" data-drupal-link-system-path="node/1205">संपर्क करें</a>
+              </li>
+        </ul>
+  
+
+<!-- END OUTPUT from 'modules/menus_attribute/templates/menu.html.twig' -->
+
+
+  </nav>
+
+<!-- END OUTPUT from 'core/themes/stable/templates/block/block--system-menu-block.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/school_education/templates/layout/region.html.twig' -->
+
+</div>
+                           <div class="footer-block col-md-4 col-sm-4  col-12">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   * region--footer-fifth.html.twig
+   x region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/school_education/templates/layout/region.html.twig' -->
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--copyrightblockhindi-2.html.twig
+   * block--block-content--524f1317-7f3b-404e-8c09-a5498aceebe7.html.twig
+   * block--block-content.html.twig
+   * block--block-content.html.twig
+   x block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/school_education/templates/block/block.html.twig' -->
+<!-- block -->
+<div id="block-copyrightblockhindi-2">
+  
+    
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--block-content--body--basic.html.twig
+   * field--block-content--body.html.twig
+   * field--block-content--basic.html.twig
+   * field--body.html.twig
+   * field--text-with-summary.html.twig
+   x field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/school_education/templates/field.html.twig' -->
+
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><img alt="NIC" src="/themes/nexus/assets/images/nic-logo.png" /></p>
+
+<p class="cpyTxt">यह साइट राष्ट्रीय सूचना विज्ञान केंद्र (एनआईसी), इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी विभाग, संचार और सूचना प्रौद्योगिकी मंत्रालय, भारत सरकार द्वारा डिज़ाइन, विकसित, होस्ट और रखरखाव की जाती है।</p>
+
+<div class="socialMed">
+<h2 class="mediaHead">Follow us on:</h2>
+
+<ul>
+	<li tabindex="143"><a href="https://twitter.com/EduMinOfIndia" tabindex="144" target="_blank" title="Twitter"><img alt="Twitter" class="shadow" src="/themes/school_education/assets/new_images/twitter-icon.png" /></a></li>
+	<li tabindex="145"><a href="https://www.facebook.com/EduMinOfIndia" tabindex="146" target="_blank" title="Facebook"><img alt="Facebook" class="shadow" src="/themes/school_education/assets/new_images/facebook-icon.png" /></a></li>
+	<li tabindex="147"><a href="https://www.youtube.com/user/HRDMinistry" tabindex="148" target="_blank" title="Youtube"><img alt="Youtube" class="shadow" src="/themes/school_education/assets/new_images/youtube-icon.png" /></a></li>
+</ul>
+​</div>
+</div>
+      
+<!-- END OUTPUT from 'themes/school_education/templates/field.html.twig' -->
+
+
+  </div>
+<!-- /block -->
+
+<!-- END OUTPUT from 'themes/school_education/templates/block/block.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/school_education/templates/layout/region.html.twig' -->
+
+</div>
+         </div>
+		 <div class="row footer-left-right">
+         <div class="col-sm-7">           
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   * region--block-footer-left.html.twig
+   x region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/school_education/templates/layout/region.html.twig' -->
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--socialmediaicons.html.twig
+   * block--block-content--313747f6-7cce-4056-9290-3fe387e5e31d.html.twig
+   * block--block-content.html.twig
+   * block--block-content.html.twig
+   x block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/school_education/templates/block/block.html.twig' -->
+<!-- block -->
+<div id="block-socialmediaicons" aria-label="Social Media Icons">
+  
+    
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--block-content--body--basic.html.twig
+   * field--block-content--body.html.twig
+   * field--block-content--basic.html.twig
+   * field--body.html.twig
+   * field--text-with-summary.html.twig
+   x field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/school_education/templates/field.html.twig' -->
+
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"><div>
+<ul class="social-icon">
+	<li class="cqw"><a href="https://digitalindiaawards.gov.in/" target="_blank" title="Digital India Awards 2016 - Platinum Icon"><img alt="Digital India Awards 2016 - Platinum Icon" height="43" src="/themes/school_education/assets/new_images/award_dia.png" width="114" /></a></li>
+	<li class="cqw"><img alt="STQC Certificate" height="45" src="/themes/school_education/assets/new_images/stqc.png" width="45" /></li>
+	<li><a href="http://jigsaw.w3.org/css-validator/validator?lang=en&profile=css3svg&uri=https%3A%2F%2Fdsel.education.gov.in&usermedium=all&vextwarning=&warning=1" target="_blank"><img alt="Valid CSS!" height="22" src="https://jigsaw.w3.org/css-validator/images/vcss" width="80" /> </a></li>
+	<li class="last"><a href="https://validator.w3.org/check?uri=referer" target="_blank" title="Valid CSS! External website that opens in a new window"><img alt="Valid XHTML 1.0 Transitional" height="22" src="https://www.w3.org/Icons/valid-xhtml10" width="80" /></a></li>
+</ul>
+</div>
+<!--<div class="support">
+<p><strong>Supports:</strong> &nbsp; &nbsp;Firefox 2.0+ &nbsp; &nbsp;Google Chrome 6.0+ &nbsp; &nbsp;Internet Explorer 8.0+ &nbsp; &nbsp;Safari 4.0+</p>
+</div>--></div>
+      
+<!-- END OUTPUT from 'themes/school_education/templates/field.html.twig' -->
+
+
+  </div>
+<!-- /block -->
+
+<!-- END OUTPUT from 'themes/school_education/templates/block/block.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/school_education/templates/layout/region.html.twig' -->
+
+ 
+           
+		 </div>
+		  <div class="col-sm-5"> 
+		  			    					 </div>
+	   </div>
+      </div>
+   </div>
+  	<div class="disclaimer" role="none">
+	 <div class="container">
+		 		  <p class="float-left">स्कूल शिक्षा और साक्षरता विभाग, शिक्षा मंत्रालय, भारत सरकार द्वारा स्वामित्व सामग्री</p>
+		  		   
+	  </div>
+	 </div>
+	</div>
+</div>
+<!-- END OUTPUT from 'themes/school_education/templates/layout/page.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'core/themes/stable/templates/content/off-canvas-page-wrapper.html.twig' -->
+
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"hi\/","currentPath":"","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"hi"},"pluralDelimiter":"\u0003","text_resize":{"text_resize_scope":"div","text_resize_minimum":8,"text_resize_maximum":14,"text_resize_line_height_allow":true,"text_resize_line_height_min":null,"text_resize_line_height_max":null},"suppressDeprecationErrors":true,"back_to_top":{"back_to_top_button_trigger":100,"back_to_top_prevent_on_mobile":true,"back_to_top_prevent_in_admin":false,"back_to_top_button_type":"image","back_to_top_button_text":"Back to top"},"noback":["\/admin"],"data":{"extlink":{"extTarget":true,"extTargetNoOverride":false,"extNofollow":0,"extFollowNoOverride":0,"extClass":"ext","extLabel":"(link is external)","extImgClass":false,"extSubdomains":false,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":true,"extAlertText":"This link will take you to an external web site. \r\n\u092f\u0939 \u0932\u093f\u0902\u0915 \u0906\u092a\u0915\u094b \u090f\u0915 \u092c\u093e\u0939\u0930\u0940 \u0935\u0947\u092c\u0938\u093e\u0907\u091f \u092a\u0930 \u0932\u0947 \u091c\u093e\u090f\u0917\u093e\u0964","mailtoClass":"0","mailtoLabel":"(link sends email)","extUseFontAwesome":true,"extIconPlacement":"append","extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","whitelistedDomains":["https:\/\/dsel.education.gov.in\/sites\/default\/files\/2022-12\/DoSEL_Tel_Dir.pdf"]}},"password_encrypt":{"passkey":"6fc216b90bf10d4d"},"TBMegaMenu":{"TBElementsCounter":{"column":5},"theme":"school_education"},"styleSwitcher":{"styles":{"custom\/default":{"label":"A","name":"custom\/default","path":"http:\/\/dsel.education.gov.in\/hi\/styleswitcher\/css\/school_education","is_default":false,"status":true,"weight":0,"_i":0,"theme":"school_education"},"custom\/black":{"label":"A","name":"custom\/black","path":"https:\/\/dsel.education.gov.in\/themes\/school_education\/assets\/css\/style-black.css","is_default":false,"status":true,"weight":0,"_i":1,"theme":"school_education"}},"default":"custom\/default","enableOverlay":true,"cookieExpire":31536000,"theme":"school_education"},"user":{"uid":0,"permissionsHash":"8234a1b23a29f17894d311a2647cc2c8ea7c9329ac39997e617f8196a328e06e"}}</script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.5.1"></script>
+<script src="/core/assets/vendor/jquery-once/jquery.once.min.js?v=2.2.3"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=8.9.20"></script>
+<script src="/sites/default/files/languages/hi_NdJxglhjJcxWytv_o41cl3PptWrFFO7m-6flcppM-XY.js?t03lcl"></script>
+<script src="/core/misc/drupal.js?v=8.9.20"></script>
+<script src="/core/misc/drupal.init.js?v=8.9.20"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/effect-min.js?v=1.12.1"></script>
+<script src="https://static.addtoany.com/menu/page.js" async></script>
+<script src="/modules/addtoany/js/addtoany.js?v=8.9.20"></script>
+<script src="https://www.skynettechnologies.com/accessibility/js/all-in-one-accessibility-js-widget-minify.js?colorcode=&amp;token=&amp;t=2146912&amp;position=bottom_left.aioa-icon-type-1.aioa-default-icon" id="aioa-adawidget"></script>
+<script src="/modules/back_to_top/js/back_to_top.js?v=8.9.20"></script>
+<script src="/modules/disable_browser_back_button/js/disable_back_button.js?v=1.x"></script>
+<script src="/themes/school_education/assets/new_js/bootstrap.min.js?t03lcl"></script>
+<script src="/themes/school_education/assets/new_js/popper.min.js?t03lcl"></script>
+<script src="/themes/school_education/assets/new_js/custom.js?t03lcl"></script>
+<script src="/modules/extlink/extlink.js?v=8.9.20"></script>
+<script src="/modules/password_encrypt/js/password_encrypt.js?v=8.9.20"></script>
+<script src="/libraries/CryptoJS/aes.js?v=8.9.20"></script>
+<script src="/modules/tb_megamenu/js/tb-megamenu-frontend.js?v=1.x"></script>
+<script src="/modules/tb_megamenu/js/tb-megamenu-touch.js?v=1.x"></script>
+<script src="/modules/simple_mobile_menu/libraries/js/smm.min.js?v=1"></script>
+<script src="/modules/styleswitcher/js/styleswitcher.js?v=2.x"></script>
+
+
+ <script>
+jQuery(function(){
+
+        var $cat = jQuery("#state"),
+            $subcat = jQuery(".subcat");
+
+        $cat.on("change",function(){
+            var _rel = jQuery(this).val();
+            $subcat.find("option").attr("style","");
+            $subcat.val("");
+            if(!_rel) return $subcat.prop("disabled",true);
+            $subcat.find("[rel="+_rel+"]").show();
+            $subcat.prop("disabled",false);
+        });
+
+    });
+
+ function goToNewPage()
+        {
+            var url = document.getElementById('list').value;
+			if(confirm("This link will take you to external site. Are you sure?")){
+			   if(url != 'none') 
+				window.open(url,"_blank");
+            }
+			else {
+				return false;
+			}
+        }
+</script>
+ </body>
+
+</html>
+
+<!-- END OUTPUT from 'themes/school_education/templates/html.html.twig' -->
+
