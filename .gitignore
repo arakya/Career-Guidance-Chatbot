@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints/
+
+# Virtual env
+.venv/
+env/
+
+# Vector DB files
+career_vectordb/
+vector_db_metadata.json
+
+# Streamlit secrets (real key)
+.streamlit/secrets.toml

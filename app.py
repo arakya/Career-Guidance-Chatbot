@@ -1,80 +1,93 @@
-import streamlit as st
 import os
-import difflib
-from langchain.vectorstores import FAISS
-from langchain.embeddings import HuggingFaceEmbeddings
-from langchain.chains import RetrievalQA
-from langchain.prompts import PromptTemplate
+import streamlit as st
+from langchain_community.vectorstores import FAISS
+from langchain_huggingface import HuggingFaceEmbeddings
+from langchain.chains import ConversationalRetrievalChain
 from langchain_google_genai import ChatGoogleGenerativeAI
 
-st.title("Career Advisor Chatbot")
+# ----------------------------
+# Settings
+# ----------------------------
+DB_DIR = "career_vectordb"
+MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"
 
-os.environ["GOOGLE_API_KEY"] = st.secrets["GOOGLE_API_KEY"]
+st.set_page_config(page_title="Career Guidance Chatbot", layout="wide")
+st.title("📚 Career Guidance Chatbot")
 
+# ----------------------------
+# Load Vector DB + Chain
+# ----------------------------
 @st.cache_resource
-def load_chain():
-    embedding_model = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
-    db = FAISS.load_local("career_vectordb", embedding_model, allow_dangerous_deserialization=True)
-    retriever = db.as_retriever(search_type="similarity", search_kwargs={"k": 2})
+def load_chain(k: int = 4):
+    embeddings = HuggingFaceEmbeddings(model_name=MODEL_NAME)
+    vectordb = FAISS.load_local(DB_DIR, embeddings, allow_dangerous_deserialization=True)
+
+    retriever = vectordb.as_retriever(
+        search_type="similarity",
+        search_kwargs={"k": k, "score_threshold": 0.1}
+    )
+
+    # Gemini 1.5 Flash
     llm = ChatGoogleGenerativeAI(
         model="gemini-1.5-flash",
-        temperature=0.1,
-        max_tokens=512,
-        google_api_key=os.getenv("GOOGLE_API_KEY")
+        temperature=0,
+        google_api_key=os.environ.get("GOOGLE_API_KEY")
     )
-    prompt = PromptTemplate(
-        input_variables=["context", "question"],
-        template="You are a helpful career advisor. Use this context to answer: {context}\n\nQuestion: {question}\n\nAnswer:"
-    )
-    qa_chain = RetrievalQA.from_chain_type(
-        llm=llm,
-        chain_type="stuff",
+
+    chain = ConversationalRetrievalChain.from_llm(
+        llm,
         retriever=retriever,
-        return_source_documents=True,
-        chain_type_kwargs={"prompt": prompt}
+        return_source_documents=True
     )
-    return qa_chain
+    return chain
 
-qa_chain = load_chain()
+# ----------------------------
+# Sidebar Controls
+# ----------------------------
+with st.sidebar:
+    st.header("⚙️ Settings")
+    k = st.slider("Retriever depth (k)", min_value=2, max_value=10, value=5, step=1)
 
-def is_similar(snippet, seen, threshold=0.97):
-    for s in seen:
-        if difflib.SequenceMatcher(None, snippet, s).ratio() > threshold:
-            return True
-    return False
+    if st.button("🔄 Refresh index"):
+        st.cache_resource.clear()
+        st.success("Index cache cleared. Ask again!")
 
-greetings = {"hello", "hi", "hey", "greetings", "good morning", "good afternoon", "good evening"}
+    st.markdown("---")
+    st.markdown("**Tips:**\n- Increase retriever depth if answers seem incomplete.\n- Use Refresh if you’ve added new PDFs.")
 
-question = st.text_input("Ask a career question:")
+# ----------------------------
+# Session State
+# ----------------------------
+if "chat_history" not in st.session_state:
+    st.session_state["chat_history"] = []
 
-if st.button("Ask") and question:
-    q_lower = question.lower().strip()
-    if q_lower in greetings:
-        st.markdown("Hello! I am your career guidance chatbot. How may I help you today?")
-    else:
-        with st.spinner("Thinking..."):
-            response = qa_chain.invoke({"query": question})
-            answer = response["result"]
+if "chain" not in st.session_state or st.session_state.get("last_k") != k:
+    st.session_state["chain"] = load_chain(k)
+    st.session_state["last_k"] = k
 
-            fallback_phrases = [
-                "i can't answer", "without knowing", "provide me with", "content of page", "page 14"
-            ]
-            if any(phrase in answer.lower() for phrase in fallback_phrases):
-                st.markdown("I'm here to help with career guidance. Please ask me about careers, internships, exams, or professional development.")
-            else:
-                st.markdown("**Answer:**")
-                st.write(answer)
+# ----------------------------
+# Chat Interface
+# ----------------------------
+query = st.chat_input("Ask me anything about your documents...")
+if query:
+    chain = st.session_state["chain"]
+    result = chain({"question": query, "chat_history": st.session_state["chat_history"]})
+    st.session_state["chat_history"].append((query, result["answer"], result.get("source_documents", [])))
 
-            st.markdown("---")
-            st.markdown("**Sources:**")
+# ----------------------------
+# Display Conversation
+# ----------------------------
+for i, (q, a, sources) in enumerate(st.session_state["chat_history"]):
+    st.markdown(f"### 🧑 You\n{q}")
+    st.markdown(f"### 🤖 Bot\n{a}")
 
-            seen_snippets = []
-            source_count = 1
-            for doc in response["source_documents"]:
-                snippet = doc.page_content[:200].strip()
-                if not is_similar(snippet, seen_snippets):
-                    st.write(f"Source {source_count} snippet: {snippet}...")
-                    seen_snippets.append(snippet)
-                    source_count += 1
-                if source_count > 2:
-                    break
+    if sources:
+        with st.expander(f"📂 Sources for Q{i+1}"):
+            for doc in sources:
+                meta = doc.metadata
+                src = meta.get("source") or meta.get("file_path") or "Unknown"
+                st.markdown(f"**{os.path.basename(src)}**")
+                st.text(doc.page_content[:250] + "...")
+                with st.expander("Show full chunk"):
+                    st.text(doc.page_content)
+    st.markdown("---")
