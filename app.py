@@ -1,93 +1,71 @@
 import os
 import streamlit as st
-from langchain_community.vectorstores import FAISS
 from langchain_huggingface import HuggingFaceEmbeddings
-from langchain.chains import ConversationalRetrievalChain
+from langchain_community.vectorstores import FAISS
+from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain.document_loaders import PyPDFLoader
+from langchain.chains import RetrievalQA
 from langchain_google_genai import ChatGoogleGenerativeAI
 
-# ----------------------------
-# Settings
-# ----------------------------
+# Directories
 DB_DIR = "career_vectordb"
-MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"
+DATA_DIR = "data"
 
-st.set_page_config(page_title="Career Guidance Chatbot", layout="wide")
-st.title("📚 Career Guidance Chatbot")
+# Embeddings
+embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
 
-# ----------------------------
-# Load Vector DB + Chain
-# ----------------------------
-@st.cache_resource
-def load_chain(k: int = 4):
-    embeddings = HuggingFaceEmbeddings(model_name=MODEL_NAME)
-    vectordb = FAISS.load_local(DB_DIR, embeddings, allow_dangerous_deserialization=True)
+def build_index():
+    """Build FAISS index from PDFs in data/"""
+    docs = []
+    if not os.path.exists(DATA_DIR):
+        return None
+    for file in os.listdir(DATA_DIR):
+        if file.endswith(".pdf"):
+            loader = PyPDFLoader(os.path.join(DATA_DIR, file))
+            docs.extend(loader.load())
 
-    retriever = vectordb.as_retriever(
-        search_type="similarity",
-        search_kwargs={"k": k, "score_threshold": 0.1}
-    )
+    if not docs:
+        return None
 
-    # Gemini 1.5 Flash
-    llm = ChatGoogleGenerativeAI(
-        model="gemini-1.5-flash",
-        temperature=0,
-        google_api_key=os.environ.get("GOOGLE_API_KEY")
-    )
+    splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
+    texts = splitter.split_documents(docs)
 
-    chain = ConversationalRetrievalChain.from_llm(
-        llm,
-        retriever=retriever,
-        return_source_documents=True
-    )
-    return chain
+    vectordb = FAISS.from_documents(texts, embeddings)
+    os.makedirs(DB_DIR, exist_ok=True)
+    vectordb.save_local(DB_DIR)
+    return vectordb
 
-# ----------------------------
-# Sidebar Controls
-# ----------------------------
-with st.sidebar:
-    st.header("⚙️ Settings")
-    k = st.slider("Retriever depth (k)", min_value=2, max_value=10, value=5, step=1)
+def load_chain(k: int):
+    """Load FAISS index, or rebuild if not found"""
+    try:
+        vectordb = FAISS.load_local(DB_DIR, embeddings, allow_dangerous_deserialization=True)
+    except Exception:
+        vectordb = build_index()
+        if vectordb is None:
+            raise RuntimeError("No FAISS index and no PDFs in data/ to build from.")
 
-    if st.button("🔄 Refresh index"):
-        st.cache_resource.clear()
-        st.success("Index cache cleared. Ask again!")
+    retriever = vectordb.as_retriever(search_kwargs={"k": k})
+    llm = ChatGoogleGenerativeAI(model="gemini-pro", google_api_key=os.environ.get("GOOGLE_API_KEY"))
+    return RetrievalQA.from_chain_type(llm=llm, retriever=retriever)
 
-    st.markdown("---")
-    st.markdown("**Tips:**\n- Increase retriever depth if answers seem incomplete.\n- Use Refresh if you’ve added new PDFs.")
+# ----------------- Streamlit UI -----------------
+st.set_page_config(page_title="Career Guidance Chatbot", page_icon="🎓")
 
-# ----------------------------
-# Session State
-# ----------------------------
-if "chat_history" not in st.session_state:
-    st.session_state["chat_history"] = []
+st.title("🎓 Career Guidance Chatbot")
 
-if "chain" not in st.session_state or st.session_state.get("last_k") != k:
+k = st.sidebar.slider("Retriever depth (k)", 1, 10, 5)
+if st.sidebar.button("Refresh index"):
+    build_index()
+    st.session_state.pop("chain", None)
+    st.success("Index refreshed!")
+
+if "chain" not in st.session_state:
     st.session_state["chain"] = load_chain(k)
-    st.session_state["last_k"] = k
 
-# ----------------------------
-# Chat Interface
-# ----------------------------
-query = st.chat_input("Ask me anything about your documents...")
+query = st.text_input("Ask me anything about your career 👇")
 if query:
-    chain = st.session_state["chain"]
-    result = chain({"question": query, "chat_history": st.session_state["chat_history"]})
-    st.session_state["chat_history"].append((query, result["answer"], result.get("source_documents", [])))
-
-# ----------------------------
-# Display Conversation
-# ----------------------------
-for i, (q, a, sources) in enumerate(st.session_state["chat_history"]):
-    st.markdown(f"### 🧑 You\n{q}")
-    st.markdown(f"### 🤖 Bot\n{a}")
-
-    if sources:
-        with st.expander(f"📂 Sources for Q{i+1}"):
-            for doc in sources:
-                meta = doc.metadata
-                src = meta.get("source") or meta.get("file_path") or "Unknown"
-                st.markdown(f"**{os.path.basename(src)}**")
-                st.text(doc.page_content[:250] + "...")
-                with st.expander("Show full chunk"):
-                    st.text(doc.page_content)
-    st.markdown("---")
+    try:
+        answer = st.session_state["chain"].run(query)
+        st.markdown(f"**Answer:** {answer}")
+    except Exception as e:
+        st.error(f"Error: {str(e)}")
