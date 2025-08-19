@@ -1,21 +1,21 @@
-# Python
-__pycache__/
+# Byte-compiled / cache files
 *.pyc
 *.pyo
 *.pyd
 *.ipynb_checkpoints/
 
-# Virtual env
+# Virtual environments
 .venv/
-env/
+venv/
 
-# Vector DB files
+# Vector DB files (local only, not for GitHub)
 career_vectordb/
 vector_db_metadata.json
 
-# Streamlit secrets (real key)
-.streamlit/secrets.toml.DS_Store
-career_vectordb/
-career_vectordb/
+# Streamlit secrets (keep local)
+.streamlit/secrets.toml
+
+# System/IDE junk
 .DS_Store
 .streamlit/
+
