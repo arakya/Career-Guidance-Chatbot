@@ -14,4 +14,8 @@ career_vectordb/
 vector_db_metadata.json
 
 # Streamlit secrets (real key)
-.streamlit/secrets.toml
+.streamlit/secrets.toml.DS_Store
+career_vectordb/
+career_vectordb/
+.DS_Store
+.streamlit/
